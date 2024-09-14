@@ -196,4 +196,4 @@ while running:
 	window.blit(score,(20,20))
 	pygame.display.update()
 
-	#By Ierokirykas
+	#By Hermeskynitis
